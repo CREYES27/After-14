@@ -1,0 +1,33 @@
+# Windows thumbnail cache file
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# macOS
+.DS_Store
+
+# Folder config file
+Desktop.ini
+
+# Recycle bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer iles
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Logs
+logs
+*.log
+
+# ========================
+# Operating system Files
+# ========================
+
+*.zip
+*.sql
